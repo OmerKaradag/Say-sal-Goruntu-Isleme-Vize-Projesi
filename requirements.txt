@@ -1,0 +1,18 @@
+!pip install kaggle
+!pip install opencv-python
+from kaggle.api.kaggle_api_extended import KaggleApi
+
+import json
+import os
+from IPython.display import display, HTML
+from IPython.display import display
+!pip install opencv-python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import cv2
+import os
+import random
+from PIL import Image
+import zipfile
